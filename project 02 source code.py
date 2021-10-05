@@ -42,7 +42,7 @@ def correct_tags (dif_lines):
 
 
 if __name__ == "__main__":
-   file = open('C:/Users/Anand/Desktop/agile/DeepakReddy(project 01)/gedcom.ged')
+   file = open('gedcome file.ged')
     
 ve_lines = file.readlines()
 
